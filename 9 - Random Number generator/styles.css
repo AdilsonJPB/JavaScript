@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    font-size: 2em;
+}
+
+#myButton {
+    display: block;
+    padding: 5px 20px;
+    border-radius: 5px;
+    margin: 0 auto;
+    font-size: 2em;
+}
